@@ -74,7 +74,7 @@ const RecipeForm = () => {
                     </Form.Group>
                 </Col>
             </Row>
-            <Row className="justify-content-end">
+            <Row className="justify-content-end mb-3">
                 <Col md={3}>
                     <Button
                         type="submit"
